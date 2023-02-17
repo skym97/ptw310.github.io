@@ -1,4 +1,4 @@
-# portfolio.githubl.io
+# portfolio.github.io
 
 ## This is my readme file.
 
